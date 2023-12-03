@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Junyoung Jo # the main title
 
-tagline: Personal site # it will display as the sub-title
+tagline: 조준영 / 충남대학교 석사 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   c++ programmer
