@@ -1,0 +1,14 @@
+---
+title: Template Based IPC
+date: 2023-12-03 14:40:32
+categories: [Project]
+tags: [c++]     # TAG names should always be lowercase
+---
+
+# Template Base IPC
+
+## Goal
+
+### Moder C++ IPC
+최초의 목적은 복잡한 posix IPC의 API를 Modern c++ 형식으로 사용할 수 있도록 Wrapping 하는 것이 목표였다.
+
